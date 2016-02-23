@@ -17,3 +17,4 @@ This week you will be creating a chat room that updates in real time (obviously)
  * Badges - [code climate & coverage](https://codeclimate.com), [code crystal](https://codecrystal.herokuapp.com/), [build](https://travis-ci.org/). Any other badges you add will be a bonus.
  * Testing frontend and backend - at least 80% coverage on backend
  * Continuous Integration - Set up travis
+ * A readme that includes instructions on how to run your project
