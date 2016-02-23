@@ -14,6 +14,6 @@ This week you will be creating a chat room that updates in real time (obviously)
 
 ##### Don't Forget
  * NO FOR LOOPS ALLOWED
- * Badges - [code climate & coverage](https://codeclimate.com), [code crystal](https://codecrystal.herokuapp.com/), build etc.
+ * Badges - [code climate & coverage](https://codeclimate.com), [code crystal](https://codecrystal.herokuapp.com/), [build](https://travis-ci.org/). Any other badges you add will be a bonus.
  * Testing frontend and backend - at least 80% coverage on backend
  * Continuous Integration - Set up travis
